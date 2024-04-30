@@ -1,0 +1,504 @@
+#,Company,Symbol,Portfolio%,Sector
+1,Microsoft Corp,MSFT,7.05%,Technology
+2,Apple Inc.,AAPL,5.74%,Technology
+3,Nvidia Corp,NVDA,5.06%,Technology
+4,Amazon.com Inc,AMZN,3.83%,Consumer Cyclical
+5,Alphabet Inc. Class A,GOOGL,2.37%,Communication Services
+6,"Meta Platforms, Inc. Class A",META,2.28%,Communication Services
+7,Alphabet Inc. Class C,GOOG,2.00%,Communication Services
+8,Berkshire Hathaway Class B,BRK.B,1.71%,N/A
+9,Broadcom Inc.,AVGO,1.38%,Technology
+10,Eli Lilly & Co.,LLY,1.36%,Healthcare
+11,Jpmorgan Chase & Co.,JPM,1.31%,Financial Services
+12,Exxon Mobil Corporation,XOM,1.09%,Energy
+13,"Tesla, Inc.",TSLA,1.09%,Consumer Cyclical
+14,Unitedhealth Group Incorporated,UNH,1.07%,Healthcare
+15,Visa Inc.,V,1.01%,Financial Services
+16,Mastercard Incorporated,MA,0.89%,Financial Services
+17,Procter & Gamble Company,PG,0.89%,Consumer Defensive
+18,Johnson & Johnson,JNJ,0.82%,Healthcare
+19,"Home Depot, Inc.",HD,0.78%,Consumer Cyclical
+20,"Merck & Co., Inc.",MRK,0.78%,Healthcare
+21,Costco Wholesale Corp,COST,0.76%,Consumer Defensive
+22,Chevron Corporation,CVX,0.67%,Energy
+23,Abbvie Inc.,ABBV,0.66%,Healthcare
+24,"Salesforce, Inc.",CRM,0.62%,Technology
+25,Bank of America Corporation,BAC,0.61%,Financial Services
+26,Walmart Inc.,WMT,0.60%,Consumer Defensive
+27,Advanced Micro Devices,AMD,0.59%,Technology
+28,Netflix Inc,NFLX,0.57%,Communication Services
+29,"Pepsico, Inc.",PEP,0.56%,Consumer Defensive
+30,Coca-Cola Company,KO,0.56%,Consumer Defensive
+31,"Thermo Fisher Scientific, Inc.",TMO,0.52%,Healthcare
+32,Adobe Inc.,ADBE,0.50%,Technology
+33,Wells Fargo & Co.,WFC,0.50%,Financial Services
+34,Linde Plc,LIN,0.50%,Basic Materials
+35,The Walt Disney Company,DIS,0.48%,Communication Services
+36,Mcdonald's Corporation,MCD,0.46%,Consumer Cyclical
+37,"Cisco Systems, Inc.",CSCO,0.45%,Technology
+38,Accenture Plc,ACN,0.45%,Technology
+39,Oracle Corp,ORCL,0.44%,Technology
+40,Abbott Laboratories,ABT,0.44%,Healthcare
+41,Qualcomm Inc,QCOM,0.43%,Technology
+42,Intuit Inc,INTU,0.42%,Technology
+43,General Electric Company,GE,0.41%,Industrials
+44,Caterpillar Inc.,CAT,0.41%,Industrials
+45,Applied Materials Inc,AMAT,0.40%,Technology
+46,Verizon Communications,VZ,0.39%,Communication Services
+47,Danaher Corporation,DHR,0.38%,Healthcare
+48,Texas Instruments Incorporated,TXN,0.38%,Technology
+49,Conocophillips,COP,0.36%,Energy
+50,International Business Machines Corporation,IBM,0.36%,Technology
+51,Comcast Corp,CMCSA,0.36%,Communication Services
+52,"Servicenow, Inc.",NOW,0.35%,Technology
+53,Union Pacific Corp.,UNP,0.35%,Industrials
+54,Philip Morris International Inc.,PM,0.34%,Consumer Defensive
+55,Amgen Inc,AMGN,0.34%,Healthcare
+56,Pfizer Inc.,PFE,0.33%,Healthcare
+57,"Uber Technologies, Inc.",UBER,0.33%,Technology
+58,Goldman Sachs Group Inc.,GS,0.33%,Financial Services
+59,"Nextra Energy, Inc.",NEE,0.32%,Utilities
+60,Intel Corp,INTC,0.31%,Technology
+61,American Express Company,AXP,0.31%,Financial Services
+62,Rtx Corporation,RTX,0.31%,Industrials
+63,S&p Global Inc.,SPGI,0.31%,Financial Services
+64,Lowe's Companies Inc.,LOW,0.31%,Consumer Cyclical
+65,Intuitive Surgical Inc.,ISRG,0.31%,Healthcare
+66,"Eaton Corporation, Plcs",ETN,0.30%,Industrials
+67,"Honeywell International, Inc.",HON,0.30%,Industrials
+68,"Micron Technology, Inc.",MU,0.30%,Technology
+69,"Elevance Health, Inc.",ELV,0.29%,Healthcare
+70,Booking Holdings Inc.,BKNG,0.29%,Consumer Cyclical
+71,Progressive Corporation,PGR,0.28%,Financial Services
+72,Lam Research Corp,LRCX,0.28%,Technology
+73,At&t Inc.,T,0.28%,Communication Services
+74,Citigroup Inc.,C,0.28%,Financial Services
+75,Morgan Stanley,MS,0.27%,Financial Services
+76,"Nike, Inc.",NKE,0.27%,Consumer Cyclical
+77,Stryker Corporation,SYK,0.26%,Healthcare
+78,The Charles Schwab Corporation,SCHW,0.26%,Financial Services
+79,"Tjx Companies, Inc.",TJX,0.26%,Consumer Cyclical
+80,Boston Scientific Corp.,BSX,0.25%,Healthcare
+81,"United Parcel Service, Inc. Class B",UPS,0.25%,Industrials
+82,"Blackrock, Inc.",BLK,0.25%,Financial Services
+83,Medtronic Plc,MDT,0.25%,Healthcare
+84,The Cigna Group,CI,0.24%,Healthcare
+85,Deere & Company,DE,0.24%,Industrials
+86,Vertex Pharmaceuticals Inc,VRTX,0.24%,Healthcare
+87,"Analog Devices, Inc.",ADI,0.23%,Technology
+88,Starbucks Corp,SBUX,0.23%,Consumer Cyclical
+89,Automatic Data Processing,ADP,0.23%,Industrials
+90,Chubb Limited,CB,0.23%,Financial Services
+91,Lockheed Martin Corp.,LMT,0.23%,Industrials
+92,"Marsh & Mclennan Companies, Inc.",MMC,0.23%,Financial Services
+93,"Prologis, Inc.",PLD,0.22%,Real Estate
+94,Kla Corporation,KLAC,0.22%,Technology
+95,Boeing Company,BA,0.22%,Industrials
+96,"Mondelez International, Inc. Class A",MDLZ,0.22%,Consumer Defensive
+97,"Fiserv, Inc.",FI,0.22%,Technology
+98,Regeneron Pharmaceuticals Inc,REGN,0.22%,Healthcare
+99,"Palo Alto Networks, Inc.",PANW,0.21%,Technology
+100,Bristol-Myers Squibb Co.,BMY,0.21%,Healthcare
+101,Blackstone Inc.,BX,0.21%,Financial Services
+102,"Chipotle Mexican Grill, Inc.",CMG,0.20%,Consumer Cyclical
+103,"T-Mobile Us, Inc.",TMUS,0.20%,Communication Services
+104,Cvs Health Corporation,CVS,0.20%,Healthcare
+105,Synopsys Inc,SNPS,0.19%,Technology
+106,Gilead Sciences Inc,GILD,0.19%,Healthcare
+107,American Tower Corporation,AMT,0.19%,Real Estate
+108,The Southern Company,SO,0.19%,Utilities
+109,"Eog Resources, Inc.",EOG,0.18%,Energy
+110,"Waste Management, Inc.",WM,0.18%,Industrials
+111,Cadence Design Systems,CDNS,0.18%,Technology
+112,"Altria Group, Inc.",MO,0.18%,Consumer Defensive
+113,Target Corporation,TGT,0.18%,Consumer Defensive
+114,Cme Group Inc.,CME,0.18%,Financial Services
+115,Intercontinental Exchange Inc.,ICE,0.18%,Financial Services
+116,Duke Energy Corporation,DUK,0.18%,Utilities
+117,Colgate-Palmolive Company,CL,0.17%,Consumer Defensive
+118,Marathon Petroleum Corporation,MPC,0.17%,Energy
+119,Zoetis Inc.,ZTS,0.17%,Healthcare
+120,Freeport-Mcmoran Inc.,FCX,0.17%,Basic Materials
+121,The Sherwin-Williams Company,SHW,0.17%,Basic Materials
+122,Amphenol Corporation,APH,0.17%,Technology
+123,Mckesson Corporation,MCK,0.17%,Healthcare
+124,"Airbnb, Inc. Class A",ABNB,0.17%,Consumer Cyclical
+125,Parker-Hannifin Corporation,PH,0.17%,Industrials
+126,"Paypal Holdings, Inc.",PYPL,0.17%,Financial Services
+127,Schlumberger Limited,SLB,0.16%,Energy
+128,Transdigm Group Incorporated,TDG,0.16%,Industrials
+129,Trane Technologies Plc,TT,0.16%,Industrials
+130,"Equinix, Inc. Reit",EQIX,0.16%,Real Estate
+131,Northrop Grumman Corp.,NOC,0.16%,Industrials
+132,Illinois Tool Works Inc.,ITW,0.16%,Industrials
+133,"Becton, Dickinson and Co.",BDX,0.16%,Healthcare
+134,Csx Corporation,CSX,0.16%,Industrials
+135,Arista Networks,ANET,0.16%,Technology
+136,Phillips 66,PSX,0.15%,Energy
+137,General Dynamics Corporation,GD,0.15%,Industrials
+138,U.S. Bancorp,USB,0.15%,Financial Services
+139,Pioneer Natural Resource Co.,PXD,0.15%,Energy
+140,Emerson Electric Co.,EMR,0.15%,Industrials
+141,Nxp Semiconductors N.v.,NXPI,0.15%,Technology
+142,Pnc Financial Services Group,PNC,0.15%,Financial Services
+143,"O'reilly Automotive, Inc.",ORLY,0.14%,Consumer Cyclical
+144,Fedex Corporation,FDX,0.14%,Industrials
+145,"Hca Healthcare, Inc.",HCA,0.14%,Healthcare
+146,Constellation Energy Corporation,CEG,0.14%,Utilities
+147,Marriot International Class A,MAR,0.14%,Consumer Cyclical
+148,Moody's Corporation,MCO,0.14%,Financial Services
+149,Paccar Inc,PCAR,0.14%,Industrials
+150,Cintas Corp,CTAS,0.13%,Industrials
+151,"Motorola Solutions, Inc.",MSI,0.13%,Technology
+152,Aon Plc Class A,AON,0.13%,Financial Services
+153,Valero Energy Corporation,VLO,0.13%,Energy
+154,"Ecolab, Inc.",ECL,0.13%,Basic Materials
+155,"Roper Technologies, Inc.",ROP,0.13%,Technology
+156,Capital One Financial,COF,0.13%,Financial Services
+157,Norfolk Southern Corp.,NSC,0.13%,Industrials
+158,General Motors Company,GM,0.12%,Consumer Cyclical
+159,"Air Products & Chemicals, Inc.",APD,0.12%,Basic Materials
+160,Edwards Lifesciences Corp,EW,0.12%,Healthcare
+161,"American International Group, Inc.",AIG,0.12%,Financial Services
+162,Welltower Inc.,WELL,0.12%,Real Estate
+163,Hilton Worldwide Holdings Inc.,HLT,0.12%,Consumer Cyclical
+164,"Autozone, Inc.",AZO,0.12%,Consumer Cyclical
+165,Truist Financial Corporation,TFC,0.12%,Financial Services
+166,3m Company,MMM,0.12%,Industrials
+167,Carrier Global Corporation,CARR,0.12%,Industrials
+168,Microchip Technology Inc,MCHP,0.12%,Technology
+169,Arthur J. Gallagher & Co.,AJG,0.12%,Financial Services
+170,Ford Motor Company,F,0.12%,Consumer Cyclical
+171,Newmont Corporation,NEM,0.12%,Basic Materials
+172,"The Travelers Companies, Inc.",TRV,0.11%,Financial Services
+173,Copart Inc,CPRT,0.11%,Industrials
+174,"Dexcom, Inc.",DXCM,0.11%,Healthcare
+175,Williams Companies Inc.,WMB,0.11%,Energy
+176,"Oneok, Inc.",OKE,0.11%,Energy
+177,"United Rentals, Inc.",URI,0.11%,Industrials
+178,Autodesk Inc,ADSK,0.11%,Technology
+179,"Simon Property Group, Inc.",SPG,0.11%,Real Estate
+180,Kimberly-Clark Corp.,KMB,0.11%,Consumer Defensive
+181,Ross Stores Inc,ROST,0.11%,Consumer Cyclical
+182,Hess Corporation,HES,0.10%,Energy
+183,Sempra,SRE,0.10%,Utilities
+184,"American Electric Power Company, Inc.",AEP,0.10%,Utilities
+185,Occidental Petroleum Corporation,OXY,0.10%,Energy
+186,Realty Income Corporation,O,0.10%,Real Estate
+187,The Allstate Corporation,ALL,0.10%,Financial Services
+188,Aflac Inc.,AFL,0.10%,Financial Services
+189,Johnson Controls International Plc,JCI,0.10%,Industrials
+190,D.R. Horton Inc.,DHI,0.10%,Consumer Cyclical
+191,Te Connectivity Ltd,TEL,0.10%,Technology
+192,Bank of New York Mellon Corporation,BK,0.10%,Financial Services
+193,"Digital Realty Trust, Inc.",DLR,0.10%,Real Estate
+194,"Metlife, Inc.",MET,0.10%,Financial Services
+195,"Super Micro Computer, Inc.",SMCI,0.10%,Technology
+196,Nucor Corporation,NUE,0.10%,Basic Materials
+197,Iqvia Holdings Inc.,IQV,0.10%,Healthcare
+198,"Dominion Energy, Inc",D,0.10%,Utilities
+199,"Constellation Brands, Inc.",STZ,0.10%,Consumer Defensive
+200,Lululemon Athletica Inc.,LULU,0.10%,Consumer Cyclical
+201,Ge Vernova Inc.,GEV,0.10%,Utilities
+202,Idexx Laboratories Inc,IDXX,0.10%,Healthcare
+203,"Ameriprise Financial, Inc.",AMP,0.10%,Financial Services
+204,"Fidelity National Information Services, Inc.",FIS,0.10%,Technology
+205,"W.W. Grainger, Inc.",GWW,0.10%,Industrials
+206,"Ametek, Inc.",AME,0.10%,Industrials
+207,"Fortinet, Inc.",FTNT,0.10%,Technology
+208,Public Storage,PSA,0.10%,Real Estate
+209,"L3harris Technologies, Inc.",LHX,0.09%,Industrials
+210,Crown Castle Inc.,CCI,0.09%,Real Estate
+211,Agilent Technologies Inc.,A,0.09%,Healthcare
+212,"General Mills, Inc.",GIS,0.09%,Consumer Defensive
+213,Dow Inc.,DOW,0.09%,Basic Materials
+214,"Cencora, Inc.",COR,0.09%,Healthcare
+215,"Prudential Financial, Inc.",PRU,0.09%,Financial Services
+216,"Yum! Brands, Inc.",YUM,0.09%,Consumer Cyclical
+217,Cummins Inc.,CMI,0.09%,Industrials
+218,Centene Corporation,CNC,0.09%,Healthcare
+219,Monster Beverage Corporation,MNST,0.09%,Consumer Defensive
+220,Republic Services Inc.,RSG,0.09%,Industrials
+221,Fastenal Co,FAST,0.09%,Industrials
+222,Sysco Corporation,SYY,0.09%,Consumer Defensive
+223,"Corteva, Inc.",CTVA,0.09%,Basic Materials
+224,Lennar Corporation Class A,LEN,0.09%,Consumer Cyclical
+225,Paychex Inc,PAYX,0.09%,Industrials
+226,"Quanta Services, Inc.",PWR,0.09%,Industrials
+227,Ingersoll Rand Inc.,IR,0.09%,Industrials
+228,"Msci, Inc.",MSCI,0.09%,Financial Services
+229,Costar Group Inc,CSGP,0.09%,Real Estate
+230,Otis Worldwide Corporation,OTIS,0.09%,Industrials
+231,Humana Inc.,HUM,0.09%,Healthcare
+232,Martin Marietta Materials,MLM,0.09%,Basic Materials
+233,"Diamondback Energy, Inc.",FANG,0.09%,Energy
+234,Exelon Corporation,EXC,0.09%,Utilities
+235,Ge Healthcare Technologies Inc.,GEHC,0.09%,Healthcare
+236,Pg&e Corporation,PCG,0.08%,Utilities
+237,The Kroger Co.,KR,0.08%,Consumer Defensive
+238,"Moderna, Inc.",MRNA,0.08%,Healthcare
+239,"Kinder Morgan, Inc.",KMI,0.08%,Energy
+240,Keurig Dr Pepper Inc.,KDP,0.08%,Consumer Defensive
+241,"Gartner, Inc.",IT,0.08%,Technology
+242,Vulcan Materials Company,VMC,0.08%,Basic Materials
+243,Halliburton Company,HAL,0.08%,Energy
+244,The Estee Lauder Companies Inc. Class A,EL,0.08%,Consumer Defensive
+245,Devon Energy Corporation,DVN,0.08%,Energy
+246,Public Service Enterprise Group Incorporated,PEG,0.08%,Utilities
+247,Arch Capital Group Ltd,ACGL,0.08%,Financial Services
+248,Cognizant Technology Solutions,CTSH,0.08%,Technology
+249,Royal Caribbean Group,RCL,0.08%,Consumer Cyclical
+250,Baker Hughes Company,BKR,0.08%,Energy
+251,Old Dominion Freight Line,ODFL,0.08%,Industrials
+252,Kenvue Inc.,KVUE,0.08%,Consumer Defensive
+253,Cdw Corporation,CDW,0.08%,Technology
+254,"Global Payments, Inc.",GPN,0.08%,Industrials
+255,"Monolithic Power Systems, Inc.",MPWR,0.08%,Technology
+256,"Rockwell Automation, Inc.",ROK,0.08%,Industrials
+257,"Delta Air Lines, Inc.",DAL,0.08%,Industrials
+258,"Consolidated Edison, Inc.",ED,0.07%,Utilities
+259,"Verisk Analytics, Inc.",VRSK,0.07%,Industrials
+260,Archer Daniels Midland Company,ADM,0.07%,Consumer Defensive
+261,Resmed Inc.,RMD,0.07%,Healthcare
+262,Discover Financial Services,DFS,0.07%,Financial Services
+263,"Dupont De Nemours, Inc.",DD,0.07%,Basic Materials
+264,Xylem Inc,XYL,0.07%,Industrials
+265,Electronic Arts Inc,EA,0.07%,Communication Services
+266,Dollar General Corp.,DG,0.07%,Consumer Defensive
+267,"Ppg Industries, Inc.",PPG,0.07%,Basic Materials
+268,The Kraft Heinz Company,KHC,0.07%,Consumer Defensive
+269,Biogen Inc.,BIIB,0.07%,Healthcare
+270,"Xcel Energy, Inc.",XEL,0.07%,Utilities
+271,Tractor Supply Co,TSCO,0.07%,Consumer Cyclical
+272,Wabtec Inc.,WAB,0.07%,Industrials
+273,Vici Properties Inc.,VICI,0.07%,Real Estate
+274,On Semiconductor Corp,ON,0.07%,Technology
+275,Ansys Inc,ANSS,0.07%,Technology
+276,"The Hartford Financial Services Group, Inc.",HIG,0.07%,Financial Services
+277,"Extra Space Storage, Inc.",EXR,0.07%,Real Estate
+278,The Hershey Company,HSY,0.07%,Consumer Defensive
+279,Fair Isaac Corporation,FICO,0.06%,Technology
+280,"Equifax, Incorporated",EFX,0.06%,Industrials
+281,Ebay Inc,EBAY,0.06%,Consumer Cyclical
+282,"Avalonbay Communities, Inc.",AVB,0.06%,Real Estate
+283,Edison International,EIX,0.06%,Utilities
+284,Mettler-Toledo International,MTD,0.06%,Healthcare
+285,Fortive Corporation,FTV,0.06%,Technology
+286,"West Pharmaceutical Services, Inc.",WST,0.06%,Healthcare
+287,"Keysight Technologies, Inc.",KEYS,0.06%,Technology
+288,"Church & Dwight Co., Inc.",CHD,0.06%,Consumer Defensive
+289,Howmet Aerospace Inc.,HWM,0.06%,Industrials
+290,"Cbre Group, Inc.",CBRE,0.06%,Real Estate
+291,Lyondellbasell Industries N.v. Class A,LYB,0.06%,Basic Materials
+292,Willis Towers Watson Public Limited Companys,WTW,0.06%,Financial Services
+293,Targa Resources Corp.,TRGP,0.06%,Energy
+294,"Wec Energy Group, Inc.",WEC,0.06%,Utilities
+295,T Rowe Price Group Inc,TROW,0.06%,Financial Services
+296,"Cardinal Health, Inc.",CAH,0.06%,Healthcare
+297,Dollar Tree Inc.,DLTR,0.06%,Consumer Defensive
+298,Dover Corporation,DOV,0.06%,Industrials
+299,Fifth Third Bancorp,FITB,0.06%,Financial Services
+300,Charter Comm Inc Del Cl a,CHTR,0.06%,Communication Services
+301,"Zimmer Biomet Holdings, Inc.",ZBH,0.06%,Healthcare
+302,"Pultegroup, Inc.",PHM,0.06%,Consumer Cyclical
+303,"Nvr, Inc.",NVR,0.06%,Consumer Cyclical
+304,M&t Bank Corp.,MTB,0.06%,Financial Services
+305,Hp Inc.,HPQ,0.06%,Technology
+306,Corning Incorporated,GLW,0.06%,Technology
+307,"American Water Works Company, Inc",AWK,0.05%,Utilities
+308,"Builders Firstsource, Inc.",BLDR,0.05%,Industrials
+309,"Raymond James Financial, Inc.",RJF,0.05%,Financial Services
+310,Western Digital Corp.,WDC,0.05%,Technology
+311,Take-Two Interactive Software Inc,TTWO,0.05%,Communication Services
+312,Broadridge Financial Solutions Inc,BR,0.05%,Technology
+313,"Nasdaq, Inc.",NDAQ,0.05%,Financial Services
+314,Weyerhaeuser Company,WY,0.05%,Real Estate
+315,State Street Corporation,STT,0.05%,Financial Services
+316,Iron Mountain Inc.,IRM,0.05%,Real Estate
+317,Dte Energy Company,DTE,0.05%,Utilities
+318,Entergy Corporation,ETR,0.05%,Utilities
+319,Genuine Parts Company,GPC,0.05%,Consumer Cyclical
+320,Equity Residential,EQR,0.05%,Real Estate
+321,Align Technology Inc,ALGN,0.05%,Healthcare
+322,Hewlett Packard Enterprise Company,HPE,0.05%,Technology
+323,Garmin Ltd,GRMN,0.05%,Technology
+324,"Corpay, Inc.",CPAY,0.05%,Technology
+325,Ball Corporation,BALL,0.05%,Consumer Cyclical
+326,Hubbell Incorporated,HUBB,0.05%,Industrials
+327,"Axon Enterprise, Inc.",AXON,0.05%,Industrials
+328,International Flavors & Fragrances Inc.,IFF,0.05%,Basic Materials
+329,"Ptc, Inc",PTC,0.05%,Technology
+330,Deckers Outdoor Corp,DECK,0.05%,Consumer Cyclical
+331,Coterra Energy Inc.,CTRA,0.05%,Energy
+332,Sba Communications Corp,SBAC,0.05%,Real Estate
+333,"Netapp, Inc",NTAP,0.05%,Technology
+334,Eversource Energy,ES,0.05%,Utilities
+335,Veralto Corporation,VLTO,0.05%,Industrials
+336,Steel Dynamics Inc,STLD,0.05%,Basic Materials
+337,Baxter International Inc.,BAX,0.05%,Healthcare
+338,Aptiv Plc,APTV,0.05%,Consumer Cyclical
+339,Steris Plc,STE,0.05%,Healthcare
+340,Invitation Homes Inc.,INVH,0.05%,Real Estate
+341,"Ulta Beauty, Inc.",ULTA,0.05%,Consumer Cyclical
+342,"Molina Healthcare, Inc.",MOH,0.05%,Healthcare
+343,Ppl Corporation,PPL,0.05%,Utilities
+344,Firstenergy Corp.,FE,0.05%,Utilities
+345,Huntington Bancshares Inc,HBAN,0.05%,Financial Services
+346,Illumina Inc,ILMN,0.05%,Healthcare
+347,"Tyler Technologies, Inc.",TYL,0.04%,Technology
+348,"Brown & Brown, Inc.",BRO,0.04%,Financial Services
+349,"First Solar, Inc.",FSLR,0.04%,Technology
+350,Ameren Corporation,AEE,0.04%,Utilities
+351,"Mccormick & Company, Incorporated Non-Vtg Cs",MKC,0.04%,Consumer Defensive
+352,Omnicom Group Inc.,OMC,0.04%,Communication Services
+353,"Cboe Global Markets, Inc.",CBOE,0.04%,Financial Services
+354,"Darden Restaurants, Inc.",DRI,0.04%,Consumer Cyclical
+355,Synchrony Financial,SYF,0.04%,Financial Services
+356,Waters Corp,WAT,0.04%,Healthcare
+357,Jacobs Solutions Inc.,J,0.04%,Industrials
+358,Regions Financial Corp.,RF,0.04%,Financial Services
+359,"Centerpoint Energy, Inc.",CNP,0.04%,Utilities
+360,Clorox Company,CLX,0.04%,Consumer Defensive
+361,"Alexandria Real Estate Equities, Inc.",ARE,0.04%,Real Estate
+362,"Expedia Group, Inc.",EXPE,0.04%,Consumer Cyclical
+363,"Warner Bros. Discovery, Inc. Series a",WBD,0.04%,Communication Services
+364,Hologic Inc,HOLX,0.04%,Healthcare
+365,"Leidos Holdings, Inc.",LDOS,0.04%,Technology
+366,Avery Dennison Corp.,AVY,0.04%,Consumer Cyclical
+367,"Ventas, Inc.",VTR,0.04%,Real Estate
+368,Teledyne Technologies Incorporated,TDY,0.04%,Technology
+369,"The Cooper Companies, Inc.",COO,0.04%,Healthcare
+370,"Teradyne, Inc.",TER,0.04%,Technology
+371,Cincinnati Financial Corp,CINF,0.04%,Financial Services
+372,Domino's Pizza Inc.,DPZ,0.04%,Consumer Cyclical
+373,Atmos Energy Corporation,ATO,0.04%,Utilities
+374,Cms Energy Corporation,CMS,0.04%,Utilities
+375,"Principal Financial Group, Inc.",PFG,0.04%,Financial Services
+376,"Tyson Foods, Inc.",TSN,0.04%,Consumer Defensive
+377,"United Airlines Holdings, Inc.",UAL,0.04%,Industrials
+378,Northern Trust Corp,NTRS,0.04%,Financial Services
+379,"Textron, Inc.",TXT,0.04%,Industrials
+380,Laboratory Corporation of America Holdings,LH,0.04%,Healthcare
+381,Las Vegas Sands Corp.,LVS,0.04%,Consumer Cyclical
+382,Eqt Corp,EQT,0.04%,Energy
+383,Skyworks Solutions Inc,SWKS,0.04%,Technology
+384,Seagate Technology Holdings Plcs,STX,0.04%,Technology
+385,Idex Corporation,IEX,0.04%,Industrials
+386,"Expeditors International of Washington, Inc.",EXPD,0.04%,Industrials
+387,"Nrg Energy, Inc.",NRG,0.04%,Utilities
+388,"Citizens Financial Group, Inc.",CFG,0.04%,Financial Services
+389,Marathon Oil Corporation,MRO,0.04%,Energy
+390,Southwest Airlines Co.,LUV,0.04%,Industrials
+391,Factset Research Systems,FDS,0.04%,Financial Services
+392,"Essex Property Trust, Inc",ESS,0.04%,Real Estate
+393,"Everest Group, Ltd.",EG,0.04%,Financial Services
+394,Masco Corporation,MAS,0.04%,Industrials
+395,W.R. Berkley Corporation,WRB,0.04%,Financial Services
+396,Verisign Inc,VRSN,0.04%,Technology
+397,Packaging Corp of America,PKG,0.04%,Consumer Cyclical
+398,Celanese Corporation,CE,0.04%,Basic Materials
+399,Akamai Technologies Inc,AKAM,0.04%,Technology
+400,"Cf Industries Holding, Inc.",CF,0.04%,Basic Materials
+401,"Enphase Energy, Inc.",ENPH,0.04%,Technology
+402,Zebra Technologies Corporation,ZBRA,0.04%,Technology
+403,Kellanova,K,0.04%,Consumer Defensive
+404,Carnival Corporation,CCL,0.04%,Consumer Cyclical
+405,Jabil Inc.,JBL,0.04%,Technology
+406,"Mid-America Apartment Communities, Inc.",MAA,0.03%,Real Estate
+407,Trimble Inc.,TRMB,0.03%,Technology
+408,Quest Diagnostics Inc.,DGX,0.03%,Healthcare
+409,Bunge Global Sa,BG,0.03%,Consumer Defensive
+410,"Conagra Brands, Inc.",CAG,0.03%,Consumer Defensive
+411,"Best Buy Company, Inc.",BBY,0.03%,Consumer Cyclical
+412,Pool Corporation,POOL,0.03%,Industrials
+413,Snap-on Incorporated,SNA,0.03%,Industrials
+414,Nordson Corp,NDSN,0.03%,Industrials
+415,Viatris Inc.,VTRS,0.03%,Healthcare
+416,Loews Corporation,L,0.03%,Financial Services
+417,"Stanley Black & Decker, Inc.",SWK,0.03%,Industrials
+418,Keycorp,KEY,0.03%,Financial Services
+419,Albemarle Corporation,ALB,0.03%,Basic Materials
+420,"Epam Systems, Inc.",EPAM,0.03%,Technology
+421,"Host Hotels & Resorts, Inc.",HST,0.03%,Real Estate
+422,"Healthpeak Properties, Inc.",DOC,0.03%,Real Estate
+423,Jb Hunt Transport Services Inc,JBHT,0.03%,Industrials
+424,Pentair Plc,PNR,0.03%,Industrials
+425,Amcor Plcs,AMCR,0.03%,Consumer Cyclical
+426,Live Nation Entertainment Inc.,LYV,0.03%,Communication Services
+427,"Walgreens Boots Alliance, Inc",WBA,0.03%,Healthcare
+428,"Rollins, Inc.",ROL,0.03%,Consumer Cyclical
+429,"Revvity, Inc.",RVTY,0.03%,Healthcare
+430,Alliant Energy Corporation,LNT,0.03%,Utilities
+431,Kimco Realty Corp.,KIM,0.03%,Real Estate
+432,"The Interpublic Group of Companies, Inc.",IPG,0.03%,Communication Services
+433,"Lamb Weston Holdings, Inc.",LW,0.03%,Consumer Defensive
+434,Henry (Jack) & Associates,JKHY,0.03%,Technology
+435,Westrock Company,WRK,0.03%,Consumer Cyclical
+436,"Evergy, Inc.",EVRG,0.03%,Utilities
+437,International Paper Co.,IP,0.03%,Consumer Cyclical
+438,Lkq Corporation,LKQ,0.03%,Consumer Cyclical
+439,"Charles River Laboratories International, Inc.",CRL,0.03%,Healthcare
+440,The J.M. Smucker Company,SJM,0.03%,Consumer Defensive
+441,Gen Digital Inc.,GEN,0.03%,Technology
+442,Molson Coors Beverage Company Class B,TAP,0.03%,Consumer Defensive
+443,Insulet Corporation,PODD,0.03%,Healthcare
+444,Aes Corporation,AES,0.03%,Utilities
+445,"Udr, Inc.",UDR,0.03%,Real Estate
+446,"Qorvo, Inc.",QRVO,0.03%,Technology
+447,Eastman Chemical Company,EMN,0.03%,Basic Materials
+448,Mgm Resorts International,MGM,0.03%,Consumer Cyclical
+449,Nisource Inc.,NI,0.03%,Utilities
+450,Juniper Networks Inc,JNPR,0.03%,Technology
+451,Carmax Inc.,KMX,0.03%,Consumer Cyclical
+452,"Huntington Ingalls Industries, Inc.",HII,0.03%,Industrials
+453,Allegion Public Limited Company,ALLE,0.03%,Industrials
+454,"F5, Inc.",FFIV,0.03%,Technology
+455,Camden Property Trust,CPT,0.02%,Real Estate
+456,"Bath & Body Works, Inc.",BBWI,0.02%,Consumer Cyclical
+457,Hormel Foods Corporation,HRL,0.02%,Consumer Defensive
+458,A.O. Smith Corporation,AOS,0.02%,Industrials
+459,"Universal Health Services, Inc. Class B",UHS,0.02%,Healthcare
+460,Bio-Techne Corp.,TECH,0.02%,Healthcare
+461,"Catalent, Inc.",CTLT,0.02%,Healthcare
+462,Apa Corporation,APA,0.02%,Energy
+463,The Mosaic Company,MOS,0.02%,Basic Materials
+464,Teleflex Incorporated,TFX,0.02%,Healthcare
+465,Incyte Genomics Inc,INCY,0.02%,Healthcare
+466,Regency Centers Corporation,REG,0.02%,Real Estate
+467,Henry Schein Inc,HSIC,0.02%,Healthcare
+468,"Dayforce, Inc.",DAY,0.02%,Technology
+469,News Corporation Class A,NWSA,0.02%,Communication Services
+470,"Paycom Software, Inc.",PAYC,0.02%,Technology
+471,Wynn Resorts Ltd,WYNN,0.02%,Consumer Cyclical
+472,"Tapestry, Inc.",TPR,0.02%,Consumer Cyclical
+473,"Assurant, Inc.",AIZ,0.02%,Financial Services
+474,American Airlines Group Inc.,AAL,0.02%,Industrials
+475,Solventum Corporation,SOLV,0.02%,Healthcare
+476,Campbell Soup Company,CPB,0.02%,Consumer Defensive
+477,Brown-Forman Corporation Class B,BF.B,0.02%,N/A
+478,"Match Group, Inc",MTCH,0.02%,Communication Services
+479,"Boston Properties, Inc.",BXP,0.02%,Real Estate
+480,Generac Holdings Inc,GNRC,0.02%,Industrials
+481,Pinnacle West Capital Corporation,PNW,0.02%,Utilities
+482,"Hasbro, Inc.",HAS,0.02%,Consumer Cyclical
+483,"C.H. Robinson Worldwide, Inc.",CHRW,0.02%,Industrials
+484,"Etsy, Inc.",ETSY,0.02%,Consumer Cyclical
+485,Norwegian Cruise Line Holdings Ltd.s,NCLH,0.02%,Consumer Cyclical
+486,Borgwarner Inc.,BWA,0.02%,Consumer Cyclical
+487,"Caesars Entertainment, Inc.",CZR,0.02%,Consumer Cyclical
+488,Fox Corporation Class A,FOXA,0.02%,Communication Services
+489,Marketaxess Holdings Inc.,MKTX,0.02%,Financial Services
+490,Federal Realty Investment Trust,FRT,0.02%,Real Estate
+491,Fmc Corporation,FMC,0.02%,Basic Materials
+492,Robert Half Inc.,RHI,0.02%,Industrials
+493,Davita Inc.,DVA,0.02%,Healthcare
+494,"Franklin Resources, Inc.",BEN,0.02%,Financial Services
+495,Comerica Incorporated,CMA,0.02%,Financial Services
+496,Invesco Ltd,IVZ,0.02%,Financial Services
+497,Ralph Lauren Corporation,RL,0.02%,Consumer Cyclical
+498,Globe Life Inc.,GL,0.02%,Financial Services
+499,"Mohawk Industries, Inc.",MHK,0.01%,Consumer Cyclical
+500,"Bio-Rad Laboratories, Inc.Class A",BIO,0.01%,Healthcare
+501,Paramount Global Class B,PARA,0.01%,Communication Services
+502,Fox Corporation Class B,FOX,0.01%,Communication Services
+503,News Corporation Class B,NWS,0.01%,Communication Services
