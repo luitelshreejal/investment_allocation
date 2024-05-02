@@ -3,3 +3,4 @@ data/historical_stock_data_final.csv
 data/historical_stock_data_partial.csv
 data/all_stock_data.csv
 test_stuff.ipynb
+data/all_stock_data_transformed_horizontally.csv
